@@ -34,15 +34,16 @@
   
 ## Solution 
   To reduce the transmission of covid-19 virus we have to supply 
-  the limited available vaccines by giving priporities to the states or areas 
+  the limited available vaccines by giving priorities to the states or areas 
   having the following standards
-  * States with more covid cases based on the population in particular states.
+  * More covid cases based on the population in particular states.
   #Eg: States with same number of covid cases but differ in population we should 
   prefer the highly populated state among those.
-  * States with high old agers suffering from covid.
-  * States with high people having diseases along with covid.
-  * States with high density of population.
+  * High count of old agers suffering from covid.
+  * People having diseases along with covid.
+  * High density of population.
   * We have to give the vaccine to the covid workers.
+  This leads to decline of transmission of covid virus.
   
 ## Work done till now
   Collected data sets covid-19,states with population.
