@@ -32,7 +32,7 @@
   for API integration and containerization (K8s/
   Docker are encouraged).
   
-##Solution 
+## Solution 
   To reduce the transmission of covid-19 virus we have to supply 
   the limited available vaccines by giving priporities to the states or areas 
   having the following standards
