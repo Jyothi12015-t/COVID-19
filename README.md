@@ -43,9 +43,10 @@
   * States with high people having diseases along with covid.
   * States with high density of population.
   * We have to give the vaccine to the covid workers.
+  
 ## Work done till now
   Collected data sets covid-19,states with population.
-  Now we are cleaning those datasets.
+  Now we are cleaning those datasets to obtain the top areas to be vaccinated first.
   
    
 
