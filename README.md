@@ -45,9 +45,8 @@
   * We have to give the vaccine to the covid workers.
   This leads to decline of transmission of covid virus.
   
-## Work done till now
-  Collected data sets covid-19,states with population.
-  Now we are cleaning those datasets to obtain the top areas to be vaccinated first.
+## YOUTUBE-LINK
+ [![YOUTUBE-LINK](https://img.youtube.com/vi/qxRSrsbNEf0/0.jpg)](https://youtu.be/qxRSrsbNEf0)
   
    
 
